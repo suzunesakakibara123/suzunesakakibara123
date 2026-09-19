@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ```javascript
   const suzu = {
+　　languages: ["Java", "HTML", "CSS", "Javascript"],
+　　framework: "Spring Boot",
     location: {
       current: "Tokyo",
       livedIn: ["Toyama", "Nagoya", "Singapore", "India"]
